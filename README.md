@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hey Fellow Coders,
+
+Kevin here, I relatively new to the coding arena.
